@@ -30,7 +30,3 @@
 * Publish on GitHub pages
 
 * Send both links (to your repo and to GitHub pages) to Gen in Slack
-# genjakassid.github.io
-# genjakassid.github.io
-# genjakassid.github.io
-# genjakassid.github.io
